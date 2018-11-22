@@ -5,4 +5,4 @@
 
 ## 目录
 
--[v] [2018-11-22] [**关于前端代码风格建议：【Git篇】**](https://github.com/kd-cloud-web/Blog/issues/2)        --by hbyuan 
+- [v] [2018-11-22] [**关于前端代码风格建议：【Git篇】**](https://github.com/kd-cloud-web/Blog/issues/2)        --by hbyuan 
