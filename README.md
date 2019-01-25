@@ -5,7 +5,6 @@
 ​           
 ## 目录
 
-- [2019-1-22] [**Node之what、why**](https://github.com/kd-cloud-web/Blog/issues/22)        --by xyhu
 - [2018-11-22] [**关于前端代码风格建议：【Git篇】**](https://github.com/kd-cloud-web/Blog/issues/2)        --by hbyuan 
 - [2018-12-10] [**HTTP和WebSocket**](https://github.com/kd-cloud-web/Blog/issues/5)        --by xyhu
 - [2018-12-11] [**对象属性和Proxy**](https://github.com/kd-cloud-web/Blog/issues/6)        --by xyhu
@@ -17,3 +16,5 @@
 - [2018-12-16][**正则表达式基础讲解**](https://github.com/kd-cloud-web/Blog/issues/16)      -- by yswang
 - [2018-12-16][**axios源码分析**](https://github.com/kd-cloud-web/Blog/issues/17)      -- by yswang
 - [2019-01-07][**ES6之async函数的学习及宏任务,微任务的一点分析**](https://github.com/kd-cloud-web/Blog/issues/19)      -- by yswang
+- [2019-1-22] [**Node之what、why**](https://github.com/kd-cloud-web/Blog/issues/22)        --by xyhu
+- [2019-01-25][**云平台前端代码书写规范**](https://github.com/kd-cloud-web/Blog/issues/23)      -- by yswang
