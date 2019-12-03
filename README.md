@@ -5,6 +5,14 @@
 ​           
 ## 目录
 ---
+### Js基础
+- [2019-05-26][**关于js Number的MAX_SAFE_INTEGER 和 MAX_VALUE**](https://github.com/kd-cloud-web/Blog/issues/27)      -- by doreenchen
+- [2018-12-11][**关于异步、Promise的一些事**](https://github.com/kd-cloud-web/Blog/issues/9)      -- by doreenchen
+- [2018-12-11][**关于数组的一些事**](https://github.com/kd-cloud-web/Blog/issues/7)      -- by doreenchen
+
+### css
+- [2018-12-11][**关于css 定位的一些事**](https://github.com/kd-cloud-web/Blog/issues/8)      -- by doreenchen
+
 ### Babel
 - [2019-10-31][**关于Babel**](https://github.com/kd-cloud-web/Blog/issues/38)      -- by liyun
 
@@ -28,10 +36,12 @@
 ### Vue技术栈
 - [2018-12-12][**关于vuex学习&码源**](https://github.com/kd-cloud-web/Blog/issues/13)      -- by hbyuan
 - [2018-12-16][**axios源码分析**](https://github.com/kd-cloud-web/Blog/issues/17)      -- by yswang
-- [2018-08-30][**vue之关于slot**](https://github.com/kd-cloud-web/Blog/issues/32)      -- by doreenchen
-- [2018-11-05][**关于diff算法**](https://github.com/kd-cloud-web/Blog/issues/39)      -- by doreenchen
+- [2018-12-16][**vue源码抛砖引玉**](https://github.com/kd-cloud-web/Blog/issues/18)      -- by doreenchen
+- [2019-08-30][**vue之关于slot**](https://github.com/kd-cloud-web/Blog/issues/32)      -- by doreenchen
+- [2019-11-05][**关于diff算法**](https://github.com/kd-cloud-web/Blog/issues/39)      -- by doreenchen
 
 ### Es6
+- [2018-12-11][**ES6之 Set & Module**](https://github.com/kd-cloud-web/Blog/issues/10)      -- by doreenchen
 - [2018-12-16][**ES6之Symbol**](https://github.com/kd-cloud-web/Blog/issues/15)      -- by yswang
 - [2019-01-07][**ES6之async函数的学习及宏任务,微任务的一点分析**](https://github.com/kd-cloud-web/Blog/issues/19)      -- by yswang
 - [2018-12-12] [**关于如何做好一个文件上传——fileUpload**](https://github.com/kd-cloud-web/Blog/issues/11)     --by hbyuan
