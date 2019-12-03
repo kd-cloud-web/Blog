@@ -28,6 +28,8 @@
 ### Vue技术栈
 - [2018-12-12][**关于vuex学习&码源**](https://github.com/kd-cloud-web/Blog/issues/13)      -- by hbyuan
 - [2018-12-16][**axios源码分析**](https://github.com/kd-cloud-web/Blog/issues/17)      -- by yswang
+- [2018-08-30][**vue之关于slot**](https://github.com/kd-cloud-web/Blog/issues/32)      -- by doreenchen
+- [2018-11-05][**关于diff算法**](https://github.com/kd-cloud-web/Blog/issues/39)      -- by doreenchen
 
 ### Es6
 - [2018-12-16][**ES6之Symbol**](https://github.com/kd-cloud-web/Blog/issues/15)      -- by yswang
