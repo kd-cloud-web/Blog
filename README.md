@@ -43,14 +43,17 @@
 - [2019-08-30][**vue之关于slot**](https://github.com/kd-cloud-web/Blog/issues/32)      -- by doreenchen
 - [2019-11-05][**关于diff算法**](https://github.com/kd-cloud-web/Blog/issues/39)      -- by doreenchen
 
-### Es6
+### ES6
 - [2018-12-11][**ES6之 Set & Module**](https://github.com/kd-cloud-web/Blog/issues/10)      -- by doreenchen
-- [2018-12-16][**ES6之Symbol**](https://github.com/kd-cloud-web/Blog/issues/15)      -- by yswang
-- [2019-01-07][**ES6之async函数的学习及宏任务,微任务的一点分析**](https://github.com/kd-cloud-web/Blog/issues/19)      -- by yswang
-- [2018-12-12] [**关于如何做好一个文件上传——fileUpload**](https://github.com/kd-cloud-web/Blog/issues/11)     --by hbyuan
 - [2018-12-11] [**对象属性和Proxy**](https://github.com/kd-cloud-web/Blog/issues/6)        --by xyhu
 - [2018-12-12] [**关于js对象和原型继承proto**](https://github.com/kd-cloud-web/Blog/issues/12)       -- by hbyuan
+- [2018-12-12] [**关于如何做好一个文件上传——fileUpload**](https://github.com/kd-cloud-web/Blog/issues/11)     --by hbyuan
+- [2018-12-16][**ES6之Symbol**](https://github.com/kd-cloud-web/Blog/issues/15)      -- by yswang
+- [2019-01-07][**ES6之async函数的学习及宏任务,微任务的一点分析**](https://github.com/kd-cloud-web/Blog/issues/19)      -- by yswang
 
+### 单元测试
+- [2020-04-10][**前端单元测试-jest.js**](https://github.com/kd-cloud-web/Blog/issues/46)      -- by yswang
+- [2020-08-06][**前端自动化测试**](https://github.com/kd-cloud-web/Blog/issues/52)      -- by zzkkui
 
 ### 代码规范建设
 - [2018-11-22] [**关于前端代码风格建议：【Git篇】**](https://github.com/kd-cloud-web/Blog/issues/2)        --by hbyuan 
