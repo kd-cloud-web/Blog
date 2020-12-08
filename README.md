@@ -6,7 +6,7 @@
 ## 目录
 ---
 ### 编程思想
-- [2020-01-10][**状态机详解**](https://github.com/kd-cloud-web/Blog/issues/60)      -- by yswang
+- [2020-11-26][**状态机详解**](https://github.com/kd-cloud-web/Blog/issues/60)      -- by yswang
 
 ### JS算法
 - [2020-01-10][**关于算法复杂度**](https://github.com/kd-cloud-web/Blog/issues/43)      -- by liyun
